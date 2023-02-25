@@ -1,0 +1,4 @@
+colorama
+configparser
+requests
+discord
