@@ -2,7 +2,7 @@
 Discord bot to buy phones using 5sim api (Discord phones)
 
 
-#Setup:
+# Setup:
 - Install requirements `pip install -r requirements.txt`
 - Run main.py `py main.py`
 - Wait for the program to create the config for you
@@ -11,7 +11,7 @@ Discord bot to buy phones using 5sim api (Discord phones)
 - Edit the config (config.ini)
 - Ready to use!
 
-#Commands:
+# Commands:
 - !bal - Sends account balance
 - !prices - Sends prices for discord phones
 - !purchase (country) - Buys a discord phone number - Need to specify country (England or netherlands recommended)
